@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;  
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2rem;
+  }
+  
+  .header {
+    width: 100vw;
+    height: 600px;
+    background-image: url("../images/apple-pie.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 5rem;
+    color: white;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 5% 12%;
+  }
+  
+  .images {
+    margin: auto;
+  }
+  
+  .vPadding5 {
+    padding-top: 5%;
+  }
+  
